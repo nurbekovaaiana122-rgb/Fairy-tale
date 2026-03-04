@@ -25,6 +25,6 @@
 
 ## 🚀 Демо
 
-👉 [Открыть сайт](playful-piroshki-63400c.netlify.app)
+👉 [Открыть сайт](https://playful-piroshki-63400c.netlify.app/)
 
 ---
